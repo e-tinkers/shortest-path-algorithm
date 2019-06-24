@@ -2,7 +2,7 @@
 
 This repo contains 3 different implementation of shortest path algorithm in Python, Nodejs(JavaScript) and Golang(Go). The code included some test code for benchmark purpose, it also serves as an example on how to use the algorithm. For detail disussion on actual application of the algorithm, you could take a look at my blog post [How to create an interactive transport system map with shortest path algorithm](https://www.e-tinkers.com/2018/07/how-to-create-an-interactive-transport-system-map-with-shortest-path-algorithm/). The start and end nodes in the test code are two actual stations of Singapore Mass Rapid Transit (SMRT) system which can be visually seen here:
 
-![The shortest path between ns1/ew24 and ew2/dt32](./images/logo.png)
+![The shortest path between ns1/ew24 and ew2/dt32](https://github.com/e-tinkers/shortest-path-algorithm/blob/master/image/shortest-path-between-ns1:ew24-and-ew2:dt32-visually.png)
 
 To run the Golang test code:
 
