@@ -18,7 +18,7 @@ To run the Python test code:
 
 ## Performanace
 
-The code was originally written in Python with the intention for running it on a Raspberry Pi 3B, the code was too slow to be used practically, and port to JavaScript and running on the client side with the assumption that any computer or even mobile phone nowadays is faster than a Raspberry Pi. I recently port it into Golang and run some benchmark on both Raspberry Pi and my MacBook Pro late 2011 model, here are the comparison of the test results.
+The code was originally written in Python with the intention for running it on a Raspberry Pi 3B, the code was too slow to be used practically, and it was then ported to JavaScript and running on the client side with the assumption that any computer or even mobile phone nowadays is faster than a Raspberry Pi. I recently port it into Golang and run some benchmark on both Raspberry Pi and my MacBook Pro late 2011 model, here are the comparison of the test results.
 
 <table style="table-layout: fixed; width: 740px">
 <colgroup>
